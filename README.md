@@ -16,3 +16,4 @@ Relevant links, including the full code and presentation, can be found in the co
 
 I achieved 70-80% accuracy in distinguishing between high-risk and low-risk classes. The visualization of the decision boundary provides an intuitive understanding of the model’s performance.
 
+![flowchart_svm_diabetes](https://github.com/user-attachments/assets/112fd1b5-cb00-4e19-b6f3-4fb8d62bea48)
